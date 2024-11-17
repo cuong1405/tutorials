@@ -1,5 +1,5 @@
 {
     'name' : 'Estate',
-    'depends' : ['base_setup'],
+    'depends' : ['base'],
     'application': True
 }
